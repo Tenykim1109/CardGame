@@ -1,0 +1,19 @@
+{
+  "name": "card_game",
+  "version": "1.0.0",
+  "description": "make card game use vanila javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tenykim1109/CardGame.git"
+  },
+  "author": "minjeong kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tenykim1109/CardGame/issues"
+  },
+  "homepage": "https://github.com/Tenykim1109/CardGame#readme"
+}
